@@ -60,7 +60,6 @@ ${cyan}${reset} mattscript v${version}
 args=("$@")
 endscript="false"
 minutes="1"
-message="mattscript v$version is my template for new bash scripts."
 IFS='
 '
 
@@ -70,7 +69,7 @@ function panel() {
        clear
        echo "$header"
        echo ""
-       echo "$message"
+       echo "$about"
        echo ""
 
 #Sleep sequence
