@@ -1,6 +1,6 @@
 # mattscript
 
-![appleseed](https://github.com/mattinclude/macOS/blob/master/img/appleseed.png)
+![appleseed](mattscript.png)
 
     mattscript v1.0.0
 
