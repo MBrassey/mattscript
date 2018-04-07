@@ -46,7 +46,7 @@ help="
 ${cyan}Usage:${cyan}${green} ./mattscript.sh ${reset}${purple}[--help|--version]${reset}
 
 ${cyan}[options]${reset}${green}
-        --license       Show lisense information.
+        --license       Show license information.
         --about         What is mattscript?${reset}
 "
 
