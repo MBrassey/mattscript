@@ -1,8 +1,7 @@
 # mattscript
 
-> Template for looping bash script with defined tput colors.
+> Template for looping bash script with pre-defined tput colors.
 
-![appleseed](mattscript.png)
 [<img src="Preview.png">](https://brassey.io/)
 
     mattscript v1.0.0
