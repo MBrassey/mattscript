@@ -12,8 +12,9 @@ Template for looping bash script with pre-defined tput colors.
 
     chmod +x mattscript.sh
 
-#### Usage
 [<img src="Preview.png">](https://brassey.io/)
+
+#### Usage
 
     Usage: ./mattscript.sh [--help|--version]
 
