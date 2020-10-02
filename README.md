@@ -1,4 +1,4 @@
-#### mattscript
+## mattscript
 
 Template for looping bash script with pre-defined tput colors.
 
